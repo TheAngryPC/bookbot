@@ -1,3 +1,4 @@
+#!/home/codespace/.python/current/bin/python
 #!/home/devnat/.pyenv/shims/python
 
 PATH = "books/frank.txt"
